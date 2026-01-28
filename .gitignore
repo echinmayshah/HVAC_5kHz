@@ -149,3 +149,6 @@ ehthumbs_vista.db
 [Dd]esktop.ini
 
 .ninja_log
+.clang-format
+.clangd
+.cyignore
