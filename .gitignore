@@ -152,3 +152,7 @@ ehthumbs_vista.db
 .clang-format
 .clangd
 .cyignore
+LICENSE
+images/
+project_info.json
+templates/
