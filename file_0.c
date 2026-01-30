@@ -6,3 +6,4 @@ uint8_t var_4 = 0U;
 uint8_t var_5 = 0U;
 uint8_t var_6 = 0U;
 uint8_t var_7 = 0U;
+uint8_t var_8 = 0U;
